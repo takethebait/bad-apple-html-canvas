@@ -2,9 +2,9 @@
 
 This is a learning project of getting familiar with the HTML canvas element by attempting to play "Bad Apple" in it (in a Bad way). Just point the file input element to the `sample.txt` file and it'll start playing. Please do not use this as a reference for anything...seriously this is extremly inefficent. Feel free to fork it and make it better.
 
-## Build
+## Build & Run
 
-Just run `npm run build` to get the `main.js` file. To get the audio file just go to the original video upload on youtube, inlclude it and it should sync up.
+Just run `npm run build` to get the `main.js` file. To get the audio file just go to the original video upload on youtube, inlclude it and it should sync up. Open the html file using something like Live Server in VS Code, click the "open file" button and point it to the sample.txt. It should play automatically
 
 ## Internals
 
